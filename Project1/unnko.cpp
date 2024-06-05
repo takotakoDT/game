@@ -7,3 +7,9 @@ void main()
 	bool ketubenn;
 	bool ji;
 }
+class toire {
+public:
+	void syou();
+private:
+	void dai();
+};
